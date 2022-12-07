@@ -22,7 +22,7 @@ Nos foi proposto que desenvolvessemos junto ao Pablo uma formulário de Login e 
 
 ## 🔗 Acesso 
 
-Para acessar a Wiki, basta <a href="#">clicar aqui</a>!
+Para acessar a Wiki, basta <a href="https://validacao-com-ts.vercel.app/">clicar aqui</a>!
 
 ----
 

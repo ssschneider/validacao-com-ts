@@ -25,7 +25,7 @@ const Login = () => {
 				<Title>Login</Title>
 				<Input name="email" type="email" placeholder="Email" control={control} errorMessage={errors?.email?.message as string}/>
 				<Input name="password" type="password" placeholder="******" control={control} errorMessage={errors?.password?.message as string}/>
-				<Button label="Fazer login" disabled={!isValid} onClick={() => alert("clicou")}/>
+				<Button label="Fazer login" disabled={!isValid} onClick={() => alert("Login efetuado com sucesso!")}/>
 			</Card>
 		</>
 	);
